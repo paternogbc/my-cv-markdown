@@ -1,0 +1,193 @@
+---
+title: "CV"
+author: "Gustavo Brant Paterno"
+fontawesome: yes
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+  html_document:
+    df_print: paged
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+geometry: margin=.7in
+github: paternogbc
+keywords: Ecology, Evolution and Data Analysis
+fontfamily: mathpazo
+phone: +55 84 996585813
+email: paternogbc@gmail.com
+twitter: paternogb
+updated: no
+urlcolor: red
+---
+
+```{r echo=FALSE}
+knitr::include_graphics(path = "images/portrait (copy).jpg")
+```
+
+**Postdoctoral Research Fellow**  
+*Departamento de Ecologia* | *Universidade Federal do Rio Grande do Norte* | 2019 |
+
+# Summary
+
+I am interested in Ecology, Evolution and Data Analysis. My current research is focused on the role of herbivores and sexual selection on the evolution of sex and the diversification of the Angiosperms. I am also interested in the mechanisms shaping plant community structure and their implications to restoration ecology. I have great interest in statistics and data vizualization, phylogenetics and developing open software. 
+
+# Education
+
+**PhD in Ecology** \hfill 2014 - 2018  
+*Departamento de Ecologia, Universidade Federal do Rio Grande do Norte*
+
+- Thesis: Sex, herbivores and the evolution of flowers
+
+**M.Sc. Ecology** \hfill 2011 - 2013  
+*Departamento de Ecologia, Universidade Federal do Rio Grande do Norte*
+
+- Thesis: The role of nurse plants in the restoration of semiarid ecossystems
+
+**B.Sc. Ecology** \hfill 2005 - 2010  
+*Universidade Federal do Rio Grande do Norte*
+
+- Thesis: Species-specific facilitation, ontogenetic shifts and consequences for plant community succession
+
+\newpage
+
+# Working Experience
+
+**Postdoctoral fellow** \hfill 2019 - current  
+*Universidade Federal do Rio Grande do Norte, **Brasil***  
+
+- Reserach Topic: Sex, herbivores and the diversification of Angiosperms sexual strategies.  
+[Prof. Carlos R. Fonseca](https://www.researchgate.net/profile/Carlos_Fonseca16).
+
+**Postdoctoral fellow** \hfill 2018 - 2019  
+*Universidade Federal do Juiz de Fora, **Brasil***  
+
+- Reserach Topic: Biodiversity-ecosystem function and Atlantic Forest resotration.  
+[Prof. André Amado](https://www.researchgate.net/profile/Andre_Amado2).
+
+**Visiting schoolar** \hfill 2018 - 2018  
+*Macquarie University - MACQUARIE, **Australia***  
+
+* Comparative Ecology Group.  
+[Prof. Mark Westoby](http://bio.mq.edu.au/research/groups/ecology/westoby/mark.htm).  
+
+- Reserach Topic: Global allometry of Angiosperm flowers
+
+**Visiting schoolar** \hfill 2017 - 2017  
+*Vrije Universiteit Brussel - VUB, **Belgium***  
+
+* Functional Ecology of Plants and Ecosystems.   
+[Prof. Harry olde Venterink](https://functionalecology.wordpress.com/about-harry/).  
+
+- Reserach Topic: Flower stoichiometry
+
+**Visiting schoolar** \hfill 2016 - 2016  
+*Technische Universität München - TUM, **Germany***  
+
+* Chair of Restoration Ecology.  
+[Prof. Johannes Kollmann](http://www.professoren.tum.de/en/kollmann-johannes/).  
+
+- Reserach Topic: Flower sex allocation
+
+**Visiting schoolar** \hfill 2015 - 2015  
+*Technische Universität München - TUM, **Germany***  
+
+* Chair of Restoration Ecology.  
+[Prof. Johannes Kollmann](http://www.professoren.tum.de/en/kollmann-johannes/).  
+   
+- Reserach Topic: Flower sex allocation
+
+\newpage
+
+# Publications
+
+## 2018
+
+> * __Paterno, G. B.__, Penone, C., & Werner, G. D. A. (2018). sensiPhy: An r-package for sensitivity analysis in phylogenetic comparative methods. **Methods in Ecology and Evolution**, 9(6), 1461–1467. [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12990).
+
+## 2016
+> * __Paterno, G. B.__, Siqueira Filho, J. A., & Ganade, G. (2016). Species-specific facilitation, ontogenetic shifts and consequences for plant community succession. **Journal of Vegetation Science**, 27(3), 606–615. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/jvs.12382).
+
+> * Kollmann, J., S. T. Meyer, R. Bateman, T. Conradi, M. M. Gossner, M. de Souza Mendonça, G. W. Fernandes, J.-M. Hermann, C. Koch, S. C. Müller, Y. Oki, G. E. Overbeck, __G. B. Paterno__, M. F. Rosenfield, T. S. P. Toma, and W. W. Weisser. 2016. Integrating ecosystem functions into restoration ecology-recent advances and future directions. __Restoration Ecology__ 24:722–730. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.12422).
+
+> * Röhr, D. L., __G. B. Paterno__, F. Camurugi, F. A. Juncá, and A. A. Garda. 2016. Background noise as a selective pressure: stream-breeding anurans call at higher frequencies. __Organisms Diversity and Evolution__ 16:269–273. [link](https://link.springer.com/article/10.1007/s13127-015-0256-0).
+
+## 2015
+
+> * Garla, R. C., R. H. a. Freitas, J. F. Calado, __G. B. Paterno__, and A. R. Carvalho. 2015. Public awareness of the economic potential and threats to sharks of a tropical oceanic archipelago in the western South Atlantic. __Marine Policy__ 60:128–133. [link](http://www.sciencedirect.com/science/article/pii/S0308597X15001712).
+
+## 2010
+
+> * Loiola, M. I. B., __G. B. Paterno__ and J. Apolinar. 2010. Leguminosae and Its Potencial of Use in the Rural Communities of São Miguel Do Gostoso – Rn. Revista Caatinga 23:59–70. 
+
+## In preparation
+
+> * __G. B. Paterno__, Carina L. Silveira, Johannes Kollmann, Mark Westoby, Carlos Roberto Fonseca. __Sex allocation shifts across Angiosperm flowers__. _in prep_
+
+> * __G. B. Paterno__, Harry olde Venterink, Carlos Roberto Fonseca. __The stoichiometry of flowers__. _in prep_. 
+
+> * C. R. Fonseca, **G. B. Paterno**, M. M. Gossner, M. Brändle, W. Weisser, J. Kollmann and H. O. Venterink. __Sex, herbivores and flower evolution__. _in prep_. 
+
+\newpage
+
+# Teaching Experience
+
+## __Postgraduate teaching__ \hfill 2018-2018
+
+> * Evolutionary ecology and phylogenetic comparative analysis in R  
+*Departamento de Ecologia, UFRN*  
+
+> * Data analysis and Vizualization in R   
+*Departamento de Ecologia, UFJF*  
+
+## __Undergraduate teaching__ \hfill 2013-2014 
+ 
+> * Field Ecology  
+*Departamento de Ecologia, UFRN*  
+
+> * Population Ecology 
+*Departamento de Ecologia, UFRN*  
+
+> * Community Ecology 
+*Departamento de Ecologia, UFRN*  
+
+> * Ecosystems Ecology   
+*Departamento de Ecologia, UFRN*  
+
+> * Biological Conservation 
+*Departamento de Ecologia, UFRN*  
+
+\newpage
+
+# Software
+
+## __sensiPhy__
+
+> The sensiPhy R package provides simple functions to perform sensitivity analyses in phylogenetic comparative methods. It uses several simulation methods to estimate the impact of different types of uncertainty on Phylogenetic comparative methods.
+
+- Github Page: https://github.com/paternogbc/sensiPhy
+- Online tutorial: https://github.com/paternogbc/sensiPhy/wiki
+
+## __Weasel__
+
+> Simulate the evolution of digital individuals (An implementation of Richard Dawkins Weasel algorithm). The Weasel Algorithm was developed by Richard Dawkins to demonstrate how random variation combined with non-random cumulative selection can drive evolutionary change.
+
+- Github Page: https://github.com/paternogbc/weasel
+
+## __SSregression__
+
+> This interactive application allows you to explore how Sums of Squares are calculated in simple linear regressions. Change one of the parameters to see what happens.
+
+- Github Page: https://github.com/paternogbc/SSregression
+- See application page: https://paternogbc.shinyapps.io/SS_regression/
+
+# Reviewer
+
+I am currently a reviewer for the following journals
+
+* [Plant and Soil](https://link.springer.com/journal/11104)
+* [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925/)
+
+# Awards and Honors
+
+- Best master thesis in Ecology (UFRN) \hfill 2013
