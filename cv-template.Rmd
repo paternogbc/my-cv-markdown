@@ -164,8 +164,6 @@ I am interested in Ecology, Evolution and Data Analysis. My current research is 
 > * Biological Conservation  
 *Departamento de Ecologia, UFRN*  
 
-\newpage
-
 # Software
 
 ## __sensiPhy__
