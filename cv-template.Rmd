@@ -26,7 +26,7 @@ knitr::include_graphics(path = "images/portrait (copy).jpg")
 ```
 
 **Postdoctoral Research Fellow**  
-*Departamento de Ecologia* | *Universidade Federal do Rio Grande do Norte* | 2019 |
+*Departamento de Ecologia* | *Universidade Federal do Rio Grande do Norte* | 2020 |
 
 # Summary
 
@@ -35,17 +35,20 @@ I am interested in Ecology, Evolution and Data Analysis. My current research is 
 # Education
 
 **PhD in Ecology** \hfill 2014 - 2018  
-*Departamento de Ecologia, Universidade Federal do Rio Grande do Norte*
+- *Departamento de Ecologia, Universidade Federal do Rio Grande do Norte*  
+- *Restoration Ecology Chair, Technische Universität München - TUM*  
+- *Functional Ecology of Plants and Ecosystems, Vrije Universiteit Brussel*  
+- *Comparative Ecology Group, Macquarie Universit*
 
 - Thesis: Sex, herbivores and the evolution of flowers
 
 **M.Sc. Ecology** \hfill 2011 - 2013  
-*Departamento de Ecologia, Universidade Federal do Rio Grande do Norte*
+- *Departamento de Ecologia, Universidade Federal do Rio Grande do Norte*
 
 - Thesis: The role of nurse plants in the restoration of semiarid ecossystems
 
 **B.Sc. Ecology** \hfill 2005 - 2010  
-*Universidade Federal do Rio Grande do Norte*
+- *Universidade Federal do Rio Grande do Norte*
 
 - Thesis: Species-specific facilitation, ontogenetic shifts and consequences for plant community succession
 
@@ -66,7 +69,7 @@ I am interested in Ecology, Evolution and Data Analysis. My current research is 
 [Prof. André Amado](https://www.researchgate.net/profile/Andre_Amado2).
 
 **Visiting schoolar** \hfill 2018 - 2018  
-*Macquarie University - MACQUARIE, **Australia***  
+*Macquarie University, **Australia***  
 
 * Comparative Ecology Group.  
 [Prof. Mark Westoby](http://bio.mq.edu.au/research/groups/ecology/westoby/mark.htm).  
@@ -139,30 +142,31 @@ I am interested in Ecology, Evolution and Data Analysis. My current research is 
 
 # Teaching Experience
 
-## __Postgraduate teaching__ \hfill 2018-2018
+## __Postgraduate teaching__ \hfill 2018-2019
 
-> * Evolutionary ecology and phylogenetic comparative analysis in R  
+> * Data management and Vizualization with R   
 *Departamento de Ecologia, UFRN*  
 
-> * Data analysis and Vizualization in R   
+> * Methods in Field Ecology   
+*PPG Ecologia UFJF & TUM* -   [link](https://methods-field-ecology.netlify.com/)
+
+> * Evolutionary ecology and phylogenetic comparative analysis with R   
+*Departamento de Ecologia, UFRN*  
+
+> * Data analysis and Vizualization in R    
 *Departamento de Ecologia, UFJF*  
 
 ## __Undergraduate teaching__ \hfill 2013-2014 
  
-> * Field Ecology  
-*Departamento de Ecologia, UFRN*  
+> * Field Ecology | *Departamento de Ecologia, UFRN*  
 
-> * Population Ecology  
-*Departamento de Ecologia, UFRN*  
+> * Population Ecology | *Departamento de Ecologia, UFRN*  
 
-> * Community Ecology  
-*Departamento de Ecologia, UFRN*  
+> * Community Ecology | *Departamento de Ecologia, UFRN*  
 
-> * Ecosystems Ecology    
-*Departamento de Ecologia, UFRN*  
+> * Ecosystems Ecology | *Departamento de Ecologia, UFRN*  
 
-> * Biological Conservation  
-*Departamento de Ecologia, UFRN*  
+> * Biological Conservation | *Departamento de Ecologia, UFRN*  
 
 # Software
 
@@ -207,4 +211,4 @@ I am currently a reviewer for the following journals
 # Awards and Honors
 
 - Best master thesis in Ecology (UFRN) \hfill 2013
-- Best PhD thesis in Ecology (UFRN) \hfill 2018
+- Best PhD thesis in Ecology (UFRN) \hfill 2018 
