@@ -106,7 +106,7 @@ I am interested in Ecology, Evolution and Data Analysis. My current research is 
 
 ## 2019 
 
-> * Wolff, J. O., __Paterno, G. B.__, Liprandi, D., Ramírez, M. J., Bosia, F., Meijden, A., Michalik, P., Smith, H. M., Jones, B. R., Ravelo, A. M., Pugno, N., & Herberstein, M. E. (2019). Evolution of aerial spider webs coincided with repeated structural optimization of silk anchorages. Evolution, 73(10), 2122–2134. [link](https://doi.org/10.1111/evo.13834)
+> * Wolff, J. O., __Paterno, G. B.__, Liprandi, D., Ramírez, M. J., Bosia, F., Meijden, A., Michalik, P., Smith, H. M., Jones, B. R., Ravelo, A. M., Pugno, N., & Herberstein, M. E. (2019). Evolution of aerial spider webs coincided with repeated structural optimization of silk anchorages. **Evolution**, 73(10), 2122–2134. [link](https://doi.org/10.1111/evo.13834) _(Cover article)_
 
 ## 2018
 

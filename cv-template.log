@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.25)  26 JAN 2020 20:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.25)  28 JAN 2020 20:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -691,7 +691,7 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 
 (c:/Users/aspes/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epsto
 pdf-base.sty
-Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
@@ -824,11 +824,11 @@ Package rerunfilecheck Info: File `cv-template.out' has not changed.
 (rerunfilecheck)             Checksum: D1863F8AB82C9D968407CB35396D28A5;2377.
  ) 
 Here is how much of TeX's memory you used:
- 14656 strings out of 494106
- 214322 string characters out of 6172215
+ 14666 strings out of 494106
+ 214407 string characters out of 6172215
  318507 words of memory out of 5000000
  18374 multiletter control sequences out of 15000+600000
- 43432 words of font info for 135 fonts, out of 8000000 for 9000
+ 43999 words of font info for 143 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  45i,11n,52p,1200b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/aspes/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.en
@@ -843,7 +843,7 @@ spes/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:
 o/uplbi8a.pfb><c:/Users/aspes/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/ur
 w/palatino/uplr8a.pfb><c:/Users/aspes/AppData/Roaming/TinyTeX/texmf-dist/fonts/
 type1/urw/palatino/uplri8a.pfb>
-Output written on cv-template.pdf (5 pages, 133559 bytes).
+Output written on cv-template.pdf (5 pages, 133870 bytes).
 PDF statistics:
  213 PDF objects out of 1000 (max. 8388607)
  196 compressed objects within 2 object streams
